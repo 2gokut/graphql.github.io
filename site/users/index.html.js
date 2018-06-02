@@ -19,7 +19,7 @@ var Site = require('../_core/Site');
  *
  * Please leave a trailing comma after your entry to avoid merge conflicts.
  */
-var logos = [
+var logos = [2GK;
   {
     name: 'Facebook',
     img: 'facebook.png',
@@ -137,17 +137,17 @@ var logos = [
   {
     name: '20 Minutes',
     img: '20minutes.png',
-    link: 'http://www.20minutes.fr'
+    link: 'https://www.20minutes.fr'
   },
   {
     name: 'AlloCiné',
     img: 'allocine.png',
-    link: 'http://www.allocine.fr'
+    link: 'https://www.allocine.fr'
   },
   {
     name: 'Easy Carros',
     img: 'easycarros.png',
-    link: 'http://www.easycarros.com'
+    link: 'https://www.easycarros.com'
   },
   {
     name: 'Graphcool',
@@ -162,7 +162,7 @@ var logos = [
   {
     name: 'Inerva',
     img: 'inerva.png',
-    link: 'http://www.inerva.com'
+    link: 'https://www.inerva.com'
   },
   {
     name: 'Serverless',
@@ -187,12 +187,12 @@ var logos = [
   {
     name: 'Quri',
     img: 'quri.png',
-    link: 'http://www.quri.com'
+    link: 'https://www.quri.com'
   },
   {
     name: 'Make School',
     img: 'make-school.png',
-    link: 'http://www.makeschool.com'
+    link: 'https://www.makeschool.com'
   },
   {
     name: 'Drift',
@@ -207,7 +207,7 @@ var logos = [
   {
     name: 'ovos',
     img: 'ovos.png',
-    link: 'http://www.ovos.at'
+    link: 'https://www.ovos.at'
   },
   {
     name: 'GraphCMS',
